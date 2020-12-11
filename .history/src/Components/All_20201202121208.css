@@ -1,0 +1,7 @@
+@media (min-width: 992px) {
+    display: flex
+    flex-basis: auto;
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: row;
+}
