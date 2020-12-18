@@ -1,0 +1,23 @@
+.ImageContainer {
+ 
+ 
+ 
+
+
+
+.projects_Heading_Image{
+
+  width: 100%;
+  position: relative;
+  height: 300px;
+ 
+
+
+}
+
+.Project_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

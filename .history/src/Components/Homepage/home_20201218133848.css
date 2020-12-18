@@ -1,0 +1,33 @@
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    justify-content: center;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    list-style: none;
+    font-size: 25px;
+    margin: 20px;
+    padding: 10px;
+  }
+
+
+  .brief_about {
+    background-color: beige;
+    padding: 200px;
+    margin: 20px;
+  }
+
+  .Homepage_services {
+    background-color: navy;
+    padding: 50px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
