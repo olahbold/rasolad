@@ -1,0 +1,26 @@
+.projects_Heading_Image {
+  width: 100%;
+  position: relative;
+  height: auto;
+}
+
+.Project_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.projects_Heading_Text{
+position :absolute;
+top: 50%;
+width: 100%;
+text-align: center;
+font-size: 18px;
+}
+
+
+.Jumbotron_css {
+  background-color: blanchedalmond;
+}

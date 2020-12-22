@@ -1,0 +1,13 @@
+.Footer {
+  background-color: blue;
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+.addressWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}   
