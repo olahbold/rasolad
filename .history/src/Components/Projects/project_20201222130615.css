@@ -1,0 +1,38 @@
+.ProjectGalleryContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  height: auto;
+  background-color: cadetblue;
+}
+
+.imageItemConfig {
+  width: 31vw;
+  height: 41vh;
+}
+
+.imageWrappper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+
+  
+}
+.galleryItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-eve;
+}
+.itemText {
+  text-align: center;
+  color: blueviolet;
+  background-color: chocolate;
+  box-shadow: cornflowerblue;
+}

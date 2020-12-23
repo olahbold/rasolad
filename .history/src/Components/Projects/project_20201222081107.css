@@ -1,0 +1,41 @@
+.ProjectGalleryContainer{
+
+display: flex;
+flex-direction: row;
+align-items: ;
+}
+
+.imageItem{
+    width: 200px;
+    height: 150px;
+    
+    
+    }
+    .imageWrappper{
+        display: flex; 
+        flex-direction: column;          
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

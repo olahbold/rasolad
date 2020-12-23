@@ -1,0 +1,54 @@
+.ProjectGalleryContainer{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+.imageItem{
+    width: 200px;
+    height: 150px;
+    
+    
+    }
+    .imageWrappper{
+        display: flex; 
+        flex-direction: row;
+        align-items: flex-start;  
+        jus 
+
+    }
+    .galleryItem{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+.itemText {
+    text-align: center;
+    color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+.servicesImagecss{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+
+.serviceTexts{
+    
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+    font: 1em sans-serif;
+    color: violet;
+  
+}
+
+
+.contentContainer{
+    font-size: ;
+}
