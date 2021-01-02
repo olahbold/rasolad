@@ -1,0 +1,99 @@
+.navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  justify-content: center;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  list-style: none;
+  font-size: 25px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.brief_about {
+  background-color: beige;
+  padding: 200px;
+  margin: 20px;
+}
+
+.Homepage_services {
+  background-color: navy;
+  padding: 15px;
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  
+}
+
+.gallery {
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 300px;
+  flex: auto;
+  width: auto;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+gallery img {
+  width: 100%;
+  height: auto;
+  
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+  color: red;
+  flex: 1
+}
+.services_text {
+  text-align: center;
+}
+
+.navbar {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
+
+.partnersWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  border-style: solid;
+border-color: red;
+background-color: blanchedalmond;
+}
+.imageItem{
+width: 100%;
+height: auto;
+
+}
